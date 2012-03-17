@@ -1,0 +1,1 @@
+Add support to the configuration to support the creation of services for mutliple buckets.
