@@ -1,6 +1,7 @@
 resolvers ++= Seq(
     Resolver.defaultLocal,
     DefaultMavenRepository,
+    //Resolver.url("Local Repository", url("file:///home/stephen/software/play-2.0-beta/Play20/repository")),
     Resolver.url("Play", url("http://download.playframework.org/ivy-releases/"))(Resolver.ivyStylePatterns),
     "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
 )

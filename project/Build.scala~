@@ -12,7 +12,7 @@ object ApplicationBuild extends Build {
     )
     
     val main = play.Project(appName, appVersion, appDependencies).settings(
-       organization := "stephen-patrick", 
+       organization := "madeby2", 
        publishArtifact in (Compile, packageDoc) := false
     )
 

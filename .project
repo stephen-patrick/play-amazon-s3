@@ -1,5 +1,5 @@
 <projectDescription>
-  <name>play-2.0-amazon-s3</name>
+  <name>amazon-s3</name>
   <buildSpec>
     <buildCommand>
       <name>org.scala-ide.sdt.core.scalabuilder</name>
